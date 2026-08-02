@@ -81,12 +81,7 @@ Start here. All three are self-contained, Colab-ready, and free to fork for your
 - Participants collected their own dataset, then trained and evaluated a recommender on it — the full pipeline, end to end.
 - TypeScript frontend with a Python backend; forked from [robert-scr/Beer-ML](https://github.com/robert-scr/Beer-ML).
 
-## 🌐 Website and organisation
-
-- [**BridgingAISocietySummerSchools.github.io**](https://github.com/BridgingAISocietySummerSchools/BridgingAISocietySummerSchools.github.io) — source for [bridgingaiandsociety.org](https://bridgingaiandsociety.org), built with Jekyll and Minimal Mistakes.
-- [**.github**](https://github.com/BridgingAISocietySummerSchools/.github) — this profile page and the shared brand assets.
-
-_See all of our work on the [organisation's repository page](https://github.com/orgs/BridgingAISocietySummerSchools/repositories)._
+_Course editions, curriculum, and everything else live at **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)**._
 
 ## 🎓 Course editions
 
@@ -103,6 +98,49 @@ _See all of our work on the [organisation's repository page](https://github.com/
 - **Accessibility** — machine learning made approachable for participants from diverse academic backgrounds, introduced with clarity and intuition rather than assumed prior knowledge.
 - **Active learning** — interaction, experimentation, and discussion instead of passive lectures, with participants bringing perspectives from their own fields.
 - **Societal perspective** — technical ideas always connected to the ethical, legal, and societal implications of AI.
+
+## 👥 Who we are
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/headshot-christoph.jpg" width="160" alt="Prof. Dr. Christoph Weisser">
+  <br><br>
+  <strong>Prof. Dr. Christoph Weisser</strong>
+  <br>
+  <sub>Professor of Mathematics, in particular Business Data Science<br>HSBI</sub>
+  <br><br>
+  Ph.D. in applied statistics
+  <br><br>
+  <strong>Research:</strong> applied statistics and data science, forecasting, agentic systems
+  <br><br>
+  Passionate about teaching and business data science
+  <br><br>
+  <a href="mailto:christoph@bridgingaiandsociety.org">✉️ Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/christophweisser">Connect on LinkedIn</a>
+</td>
+<td width="50%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/headshot-knut.jpg" width="160" alt="Dr. Knut Zoch">
+  <br><br>
+  <strong>Dr. Knut Zoch</strong>
+  <br>
+  <sub>Physicist, Research Fellow<br>CERN</sub>
+  <br><br>
+  Ph.D. in experimental particle physics
+  <br><br>
+  <strong>Research:</strong> big data analytics at CERN, machine learning for science
+  <br><br>
+  Passionate about teaching and interdisciplinary science
+  <br><br>
+  <a href="mailto:knut@bridgingaiandsociety.org">✉️ Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/knutzk">Connect on LinkedIn</a>
+</td>
+</tr>
+</table>
+
+<p align="center"><em>We look forward to learning and exploring with you!</em></p>
 
 ## 🤝 Get involved
 
