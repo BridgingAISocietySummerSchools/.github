@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/banner.jpg" alt="Bridging AI &amp; Society" width="100%">
+  <a href="https://bridgingaiandsociety.org"><img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/banner.jpg" alt="Bridging AI &amp; Society" width="100%"></a>
 </p>
 
 <h1 align="center">
@@ -7,12 +7,23 @@
   &nbsp;Bridging AI &amp; Society
 </h1>
 
-<p align="center"><strong>Interdisciplinary machine learning education</strong></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/rule.svg" alt="" width="72" height="7">
+</p>
 
 <p align="center">
-  <a href="https://bridgingaiandsociety.org"><img src="https://img.shields.io/badge/Website-bridgingaiandsociety.org-b60000?style=flat-square" alt="Website"></a>
-  <a href="https://bridgingaiandsociety.org/courses/"><img src="https://img.shields.io/badge/Courses-Overview-111111?style=flat-square" alt="Courses"></a>
-  <a href="https://bridgingaiandsociety.org/about/"><img src="https://img.shields.io/badge/About-The%20team-111111?style=flat-square" alt="About"></a>
+  Interdisciplinary machine learning education<br>
+  <sub>by Prof. Dr. Christoph Weisser &amp; Dr. Knut Zoch</sub>
+</p>
+
+<p align="center">
+  <strong><a href="https://bridgingaiandsociety.org">bridgingaiandsociety.org</a></strong>
+  &nbsp;·&nbsp;
+  <a href="https://bridgingaiandsociety.org/courses/">Courses</a>
+  &nbsp;·&nbsp;
+  <a href="https://bridgingaiandsociety.org/about/">About us</a>
+  &nbsp;·&nbsp;
+  <a href="#-teaching-materials">Teaching materials</a>
 </p>
 
 ---
