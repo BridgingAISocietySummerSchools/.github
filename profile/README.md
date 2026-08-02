@@ -1,69 +1,77 @@
-# Bridging AI & Society 🌞🤖
-
-We design and deliver interdisciplinary courses and workshops that explore the technical foundations and societal implications of **Artificial Intelligence (AI)** and **Machine Learning (ML)**.
-
-Our materials are modular, discussion-driven, and tailored for learners from diverse academic backgrounds — no coding experience required.
-
 <p align="center">
-  <strong>📍 Visit our website to learn more:<br>
-  👉 <a href="https://bridgingaiandsociety.org">bridgingaiandsociety.org</a></strong>
+  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/banner.jpg" alt="Bridging AI &amp; Society" width="100%">
 </p>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/logo.svg" alt="" width="48" align="center">
+  &nbsp;Bridging AI &amp; Society
+</h1>
+
+<p align="center"><strong>Interdisciplinary machine learning education</strong></p>
+
 <p align="center">
-  <img src="../logo.jpg" alt="Bridging AI & Society Banner" width="500">
+  <a href="https://bridgingaiandsociety.org"><img src="https://img.shields.io/badge/Website-bridgingaiandsociety.org-b60000?style=flat-square" alt="Website"></a>
+  <a href="https://bridgingaiandsociety.org/courses/"><img src="https://img.shields.io/badge/Courses-Overview-111111?style=flat-square" alt="Courses"></a>
+  <a href="https://bridgingaiandsociety.org/about/"><img src="https://img.shields.io/badge/About-The%20team-111111?style=flat-square" alt="About"></a>
 </p>
 
 ---
 
-## 🚀 Repositories
+We are **Prof. Dr. Christoph Weisser** and **Dr. Knut Zoch**, two educators with backgrounds in applied statistics and experimental physics. Together, we design and teach interdisciplinary courses and workshops that explore both the **technical foundations** of machine learning and the **societal questions** raised by artificial intelligence.
 
-### [Data-Science-AI-Python-Course](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) 🐍📊
-**From "What's Python?" to analyzing real datasets in just 3 hours!**
-- A beginner-friendly Python course focused on data science and AI applications.
-- **No prerequisites** needed — ideal for anyone starting out.
-- Learn practical skills: variables, data structures, NumPy, pandas, matplotlib, and data science workflows.
+Our formats are interactive, adaptable, and discussion-driven — ranging from short workshops to multi-day academies. Materials are modular and tailored for learners from diverse academic backgrounds — **no coding experience required**.
+
+This organisation hosts the open teaching materials behind those courses.
+
+## 📚 Teaching materials
+
+### [Data-Science-AI-Python-Course](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course)
+
+**From "What's Python?" to analysing real datasets in just 3 hours.**
+
+- A beginner-friendly Python course focused on data science and AI applications — **no prerequisites** needed.
+- Covers variables, data structures, NumPy, pandas, matplotlib, and end-to-end data science workflows.
 - Each notebook builds on the last, culminating in a real-world weather data analysis project.
 - Includes setup scripts and instructions for virtual environments and Jupyter.
-- **Perfect for:** Students, business professionals, researchers, and anyone curious about data science.
-- ⭐️ Star the repo, fork it, and share your progress!
-- _[See full course structure and details in the repo.](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course)_
 
----
+### [Hands-On-Notebooks](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks)
 
-### [Hands-On-Notebooks](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) 📓🧑‍💻
-**A curated collection of Jupyter notebooks to teach the fundamentals of machine learning.**
-- Beginner-friendly and designed for hands-on use in our interdisciplinary summer schools.
-- Covers essential ML concepts including linear models, decision trees, random forests, and gradient boosting.
-- Emphasizes visual intuition, experimentation, and interpretability.
-- Notebooks are Colab-compatible — just click and run, no installation required.
-- Local setup instructions for Anaconda, Docker, and virtual environments are included.
-- _[Browse the notebooks and setup guide in the repo.](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks)_
+**A curated collection of Jupyter notebooks teaching the fundamentals of machine learning.**
 
----
+- Covers linear models, decision trees, random forests, and gradient boosting.
+- Emphasises visual intuition, experimentation, and interpretability.
+- Colab-compatible — just click and run, no installation required.
+- Local setup instructions for Anaconda, Docker, and virtual environments included.
 
-### [Coding-Project](https://github.com/BridgingAISocietySummerSchools/Coding-Project) 👩‍💻👨‍💻💡
+### [Coding-Project](https://github.com/BridgingAISocietySummerSchools/Coding-Project)
+
 **Advanced coding challenges for learners eager to go beyond the basics.**
-- A set of **three themed projects** that explore how AI intersects with real societal issues.
-- Designed for learners who already understand the fundamentals and want to apply their skills to real-world datasets.
-- Each challenge includes an educational notebook and can be completed in ~3 hours.
-- Topics include: **Wine Quality Prediction** (AI for agriculture and food), **Fake News Detection** (NLP for media literacy), and **Spam Filtering** (AI for digital well-being).
-- Hosted on **Google Colab** — just click and start coding.
-- _[Explore the challenges and start building.](https://github.com/BridgingAISocietySummerSchools/Coding-Project)_
 
----
+- Three themed projects exploring how AI intersects with real societal issues, ~3 hours each.
+- **Wine Quality Prediction** (AI for agriculture and food), **Fake News Detection** (NLP for media literacy), and **Spam Filtering** (AI for digital well-being).
+- Designed for learners who know the fundamentals and want to apply them to real-world datasets.
+- Hosted on Google Colab — just click and start coding.
 
-<!--
-### [Coding-Project](https://github.com/StudienstiftungAISummerSchools/Coding-Project) 👩‍💻👨‍💻🔒
-A private repository for collaborative coding projects that encourage teamwork and innovation within the summer school community.
-- **Visibility:** Private
-- Used for group work, capstone projects, and advanced exercises.
+## 🎓 Course editions
 
----
--->
+| Edition | Where | Year | Status |
+| --- | --- | --- | --- |
+| [Obertauern 2026](https://bridgingaiandsociety.org/courses/obertauern-2026/) | 🇦🇹 Austria | 2026 | **Upcoming** |
+| [Banz Abbey 2025](https://bridgingaiandsociety.org/courses/banz-2025/) | 🇩🇪 Germany | 2025 | Completed |
+| Ljubljana | 🇸🇮 Slovenia | 2024 | Completed |
+| Koppelsberg | 🇩🇪 Germany | 2021 | Completed |
+| Cambridge | 🇬🇧 United Kingdom | 2019 | Completed |
 
-## 🤝 Get Involved
+## 🧭 Our approach
 
-We welcome collaboration and feedback!
+- **Accessibility** — machine learning made approachable for participants from diverse academic backgrounds, introduced with clarity and intuition rather than assumed prior knowledge.
+- **Active learning** — interaction, experimentation, and discussion instead of passive lectures, with participants bringing perspectives from their own fields.
+- **Societal perspective** — technical ideas always connected to the ethical, legal, and societal implications of AI.
 
-To learn more about our courses, teaching philosophy, or materials,
-visit our website 👉 **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)**
+## 🤝 Get involved
+
+We welcome collaboration and feedback. To learn more about our courses, teaching philosophy, or materials, visit **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)** — or [get in touch with us](https://bridgingaiandsociety.org/about/).
+
+<p align="center">
+  <sub>© Christoph Weisser &amp; Knut Zoch · <a href="https://bridgingaiandsociety.org">bridgingaiandsociety.org</a></sub>
+</p>
