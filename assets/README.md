@@ -7,7 +7,7 @@ is exactly what happened once already, when the site moved off its old crimson
 and these files stayed behind.
 
 **Source of truth** is the website repo
-([`bridgingaiandsociety.github.io`](https://github.com/bridgingaiandsociety/bridgingaiandsociety.github.io)):
+([`BridgingAISocietySummerSchools.github.io`](https://github.com/BridgingAISocietySummerSchools/BridgingAISocietySummerSchools.github.io)):
 
 - `_sass/_bas-brand.scss` — the accent. Lapis blue, `#416bcc` on light grounds
   and `#7a98dc` on dark; the ink is `#1c2025`. Two lightnesses because no
