@@ -1,4 +1,4 @@
 <!-- The brand accent rule, as it sits under the wordmark on the social
      card (og_svg() in the website repo's tools/build-brand-assets.py).
      Same geometry, same lapis blue. See assets/README.md. -->
-<svg xmlns="http://www.w3.org/2000/svg" width="72" height="7" viewBox="0 0 72 7"><rect width="72" height="7" rx="3.5" fill="#416bcc"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="7" viewBox="0 0 72 7"><rect width="72" height="7" rx="3.5" fill="#7a98dc"/></svg>

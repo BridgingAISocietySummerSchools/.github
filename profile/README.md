@@ -3,12 +3,17 @@
 </p>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/logo.svg" alt="" width="48" align="center">
-  &nbsp;Bridging AI &amp; Society
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/logo-lockup-on-dark.svg">
+    <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/logo-lockup.svg" alt="Bridging AI &amp; Society" width="360">
+  </picture>
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/rule.svg" alt="" width="72" height="7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/rule-on-dark.svg">
+    <img src="https://raw.githubusercontent.com/BridgingAISocietySummerSchools/.github/main/assets/rule.svg" alt="" width="72" height="7">
+  </picture>
 </p>
 
 <p align="center">
