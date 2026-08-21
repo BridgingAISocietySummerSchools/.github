@@ -41,13 +41,12 @@ This organisation hosts the open teaching materials behind those courses.
 
 ## 📚 Teaching materials
 
-Start here. All three are self-contained, Colab-ready, and free to fork for your own teaching.
+Start here. Both are self-contained, Colab-ready, and free to fork for your own teaching.
 
 | Repository | What it is | Level |
 | --- | --- | --- |
 | [**Data-Science-AI-Python-Course**](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) | Python and data science from scratch, in ~3 hours | Beginner |
 | [**Hands-On-Notebooks**](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) | The machine learning fundamentals, notebook by notebook | Beginner → Intermediate |
-| [**Coding-Project**](https://github.com/BridgingAISocietySummerSchools/Coding-Project) | Three applied challenges on AI and society | Intermediate |
 
 ### [Data-Science-AI-Python-Course](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course)
 
@@ -66,15 +65,6 @@ Start here. All three are self-contained, Colab-ready, and free to fork for your
 - Emphasises visual intuition, experimentation, and interpretability.
 - Colab-compatible — just click and run, no installation required.
 - Local setup instructions for Anaconda, Docker, and virtual environments included.
-
-### [Coding-Project](https://github.com/BridgingAISocietySummerSchools/Coding-Project)
-
-**Advanced coding challenges for learners eager to go beyond the basics.**
-
-- Three themed projects exploring how AI intersects with real societal issues, ~3 hours each.
-- **Wine Quality Prediction** (AI for agriculture and food), **Fake News Detection** (NLP for media literacy), and **Spam Filtering** (AI for digital well-being).
-- Designed for learners who know the fundamentals and want to apply them to real-world datasets.
-- Hosted on Google Colab — just click and start coding.
 
 ## 🧪 Participant projects
 
