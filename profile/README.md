@@ -53,11 +53,11 @@ Start here. Both are MIT-licensed, self-contained, Colab-ready, and free to fork
 
 | Repository | What it is | Level | Time | Launch |
 | --- | --- | --- | --- | --- |
-| [**Data-Science-AI-Python-Course**](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) | Python and data science from scratch, in two tracks | Beginner → Intermediate | 90 min + self-paced | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/) |
+| [**Python-for-Data-Science-Workshop**](https://github.com/BridgingAISocietySummerSchools/Python-for-Data-Science-Workshop) | Python and data science from scratch, in two tracks | Beginner → Intermediate | 90 min + self-paced | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Python-for-Data-Science-Workshop/) |
 | [**Hands-On-Notebooks**](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) | The machine learning fundamentals, notebook by notebook | Beginner → Intermediate | ~3 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Hands-On-Notebooks/) |
 
 <details>
-<summary><strong>Data-Science-AI-Python-Course</strong> — from "What's a variable?" to building and interpreting your own ML models</summary>
+<summary><strong>Python-for-Data-Science-Workshop</strong> — from "What's a variable?" to building and interpreting your own ML models</summary>
 <br>
 
 - A beginner-friendly Python course focused on data science and AI applications — **no prerequisites** needed.
