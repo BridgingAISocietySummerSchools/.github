@@ -88,7 +88,7 @@ Start here. Both are self-contained, Colab-ready, and free to fork for your own 
 
 The exact content of each course depends on the audience and duration, but typically spans core ML concepts, hands-on data work in Python, and discussion sessions on topics such as algorithmic bias and fairness, global regulation, AI in healthcare, misinformation, and the future of work.
 
-## 🧪 Participant projects
+## 🧪 Built by participants at past schools
 
 ### [Banz-2025-Beverage-Recommender](https://github.com/BridgingAISocietySummerSchools/Banz-2025-Beverage-Recommender)
 
