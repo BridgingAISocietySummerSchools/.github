@@ -33,6 +33,10 @@
   <a href="#-course-editions">Editions</a>
 </p>
 
+<p align="center">
+  <sub>5 editions · 4 countries · since 2019 · open, MIT-licensed materials</sub>
+</p>
+
 ---
 
 We are **Prof. Dr. Christoph Weisser** and **Dr. Knut Zoch**, two educators with backgrounds in applied statistics and experimental physics. Together, we design and teach interdisciplinary courses and workshops that explore both the **technical foundations** of machine learning and the **societal questions** raised by artificial intelligence.
@@ -45,20 +49,20 @@ This organisation hosts the open teaching materials behind those courses. Course
 
 ## 📚 Teaching materials
 
-Start here. Both are self-contained, Colab-ready, and free to fork for your own teaching. They form a natural learning path — start with Python, then build up the machine learning fundamentals notebook by notebook.
+Start here. Both are MIT-licensed, self-contained, Colab-ready, and free to fork for your own teaching. They form a natural learning path — start with Python, then build up the machine learning fundamentals notebook by notebook.
 
-| Repository | What it is | Level | Time |
-| --- | --- | --- | --- |
-| [**Data-Science-AI-Python-Course**](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) | Python and data science from scratch | Beginner | ~3 hours |
-| [**Hands-On-Notebooks**](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) | The machine learning fundamentals, notebook by notebook | Beginner → Intermediate | Modular |
+| Repository | What it is | Level | Time | Launch |
+| --- | --- | --- | --- | --- |
+| [**Data-Science-AI-Python-Course**](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) | Python and data science from scratch, in two tracks | Beginner → Intermediate | 90 min + self-paced | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course/) |
+| [**Hands-On-Notebooks**](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) | The machine learning fundamentals, notebook by notebook | Beginner → Intermediate | ~3 hours | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BridgingAISocietySummerSchools/Hands-On-Notebooks/) |
 
 <details>
-<summary><strong>Data-Science-AI-Python-Course</strong> — from "What's Python?" to analysing real datasets in just 3 hours</summary>
+<summary><strong>Data-Science-AI-Python-Course</strong> — from "What's a variable?" to building and interpreting your own ML models</summary>
 <br>
 
 - A beginner-friendly Python course focused on data science and AI applications — **no prerequisites** needed.
-- Covers variables, data structures, NumPy, pandas, matplotlib, and end-to-end data science workflows.
-- Each notebook builds on the last, culminating in a real-world weather data analysis project.
+- Two tracks: a **90-minute live introduction session** for complete beginners, and a **self-paced advanced track** (~6 hours plus practice) for everyone who wants to go deeper.
+- Covers variables, data structures, NumPy, pandas, matplotlib, and end-to-end data science workflows — every notebook opens directly in Google Colab.
 - Includes setup scripts and instructions for virtual environments and Jupyter.
 
 </details>
@@ -67,7 +71,7 @@ Start here. Both are self-contained, Colab-ready, and free to fork for your own 
 <summary><strong>Hands-On-Notebooks</strong> — a curated collection of Jupyter notebooks on the fundamentals of machine learning</summary>
 <br>
 
-- Covers linear models, decision trees, random forests, and gradient boosting.
+- Covers machine learning fundamentals, decision trees, and neural networks.
 - Emphasises visual intuition, experimentation, and interpretability.
 - Colab-compatible — just click and run, no installation required.
 - Local setup instructions for Anaconda, Docker, and virtual environments included.
@@ -83,6 +87,8 @@ Start here. Both are self-contained, Colab-ready, and free to fork for your own 
 | Ljubljana 2024 | 🇸🇮 Ljubljana, Slovenia | 2024 | Completed |
 | Koppelsberg 2021 | 🇩🇪 Koppelsberg, Germany | 2021 | Completed |
 | Cambridge 2019 | 🇬🇧 St. John's College, Cambridge | 2019 | Completed |
+
+<sub>Ljubljana 2024 ran in partnership with the Max Weber Program.</sub>
 
 **Next up: [Obertauern 2026](https://bridgingaiandsociety.org/courses/obertauern-2026/)** — bridging classical machine learning with recent breakthroughs in generative AI and autonomous systems, including LLMs and agents.
 
@@ -151,7 +157,7 @@ The exact content of each course depends on the audience and duration, but typic
 
 We welcome collaboration and feedback.
 
-- **Teach with our materials** — everything here is free to fork and adapt for your own courses.
+- **Teach with our materials** — the teaching materials are MIT-licensed: free to fork and adapt for your own courses.
 - **Spotted an issue?** Open an issue or pull request in the relevant repository.
 - **Interested in a course or workshop?** Visit **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)** or [get in touch with us](https://bridgingaiandsociety.org/about/).
 
