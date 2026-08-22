@@ -29,42 +29,64 @@
   <a href="https://bridgingaiandsociety.org/about/">About us</a>
   &nbsp;·&nbsp;
   <a href="#-teaching-materials">Teaching materials</a>
+  &nbsp;·&nbsp;
+  <a href="#-course-editions">Editions</a>
 </p>
 
 ---
 
 We are **Prof. Dr. Christoph Weisser** and **Dr. Knut Zoch**, two educators with backgrounds in applied statistics and experimental physics. Together, we design and teach interdisciplinary courses and workshops that explore both the **technical foundations** of machine learning and the **societal questions** raised by artificial intelligence.
 
+> _AI and machine learning education should not remain the domain of specialists alone._
+
 Our formats are interactive, adaptable, and discussion-driven — ranging from short workshops to multi-day academies. Materials are modular and tailored for learners from diverse academic backgrounds — **no coding experience required**.
 
-This organisation hosts the open teaching materials behind those courses.
+This organisation hosts the open teaching materials behind those courses. Course editions, curriculum, and everything else live at **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)**.
 
 ## 📚 Teaching materials
 
-Start here. Both are self-contained, Colab-ready, and free to fork for your own teaching.
+Start here. Both are self-contained, Colab-ready, and free to fork for your own teaching. They form a natural learning path — start with Python, then build up the machine learning fundamentals notebook by notebook.
 
-| Repository | What it is | Level |
-| --- | --- | --- |
-| [**Data-Science-AI-Python-Course**](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) | Python and data science from scratch, in ~3 hours | Beginner |
-| [**Hands-On-Notebooks**](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) | The machine learning fundamentals, notebook by notebook | Beginner → Intermediate |
+| Repository | What it is | Level | Time |
+| --- | --- | --- | --- |
+| [**Data-Science-AI-Python-Course**](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course) | Python and data science from scratch | Beginner | ~3 hours |
+| [**Hands-On-Notebooks**](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks) | The machine learning fundamentals, notebook by notebook | Beginner → Intermediate | Modular |
 
-### [Data-Science-AI-Python-Course](https://github.com/BridgingAISocietySummerSchools/Data-Science-AI-Python-Course)
-
-**From "What's Python?" to analysing real datasets in just 3 hours.**
+<details>
+<summary><strong>Data-Science-AI-Python-Course</strong> — from "What's Python?" to analysing real datasets in just 3 hours</summary>
+<br>
 
 - A beginner-friendly Python course focused on data science and AI applications — **no prerequisites** needed.
 - Covers variables, data structures, NumPy, pandas, matplotlib, and end-to-end data science workflows.
 - Each notebook builds on the last, culminating in a real-world weather data analysis project.
 - Includes setup scripts and instructions for virtual environments and Jupyter.
 
-### [Hands-On-Notebooks](https://github.com/BridgingAISocietySummerSchools/Hands-On-Notebooks)
+</details>
 
-**A curated collection of Jupyter notebooks teaching the fundamentals of machine learning.**
+<details>
+<summary><strong>Hands-On-Notebooks</strong> — a curated collection of Jupyter notebooks on the fundamentals of machine learning</summary>
+<br>
 
 - Covers linear models, decision trees, random forests, and gradient boosting.
 - Emphasises visual intuition, experimentation, and interpretability.
 - Colab-compatible — just click and run, no installation required.
 - Local setup instructions for Anaconda, Docker, and virtual environments included.
+
+</details>
+
+## 🎓 Course editions
+
+| Edition | Where | Year | Status |
+| --- | --- | --- | --- |
+| [Obertauern 2026](https://bridgingaiandsociety.org/courses/obertauern-2026/) | 🇦🇹 Obertauern, Austrian Alps | 2026 | **Upcoming** |
+| [Banz Abbey 2025](https://bridgingaiandsociety.org/courses/banz-2025/) | 🇩🇪 Banz Abbey, Germany | 2025 | Completed |
+| Ljubljana 2024 | 🇸🇮 Ljubljana, Slovenia | 2024 | Completed |
+| Koppelsberg 2021 | 🇩🇪 Koppelsberg, Germany | 2021 | Completed |
+| Cambridge 2019 | 🇬🇧 St. John's College, Cambridge | 2019 | Completed |
+
+**Next up: [Obertauern 2026](https://bridgingaiandsociety.org/courses/obertauern-2026/)** — bridging classical machine learning with recent breakthroughs in generative AI and autonomous systems, including LLMs and agents.
+
+The exact content of each course depends on the audience and duration, but typically spans core ML concepts, hands-on data work in Python, and discussion sessions on topics such as algorithmic bias and fairness, global regulation, AI in healthcare, misinformation, and the future of work.
 
 ## 🧪 Participant projects
 
@@ -75,18 +97,6 @@ Start here. Both are self-contained, Colab-ready, and free to fork for your own 
 - A full-stack web application for running beer preference studies with real-time data collection and analysis.
 - Participants collected their own dataset, then trained and evaluated a recommender on it — the full pipeline, end to end.
 - TypeScript frontend with a Python backend; forked from [robert-scr/Beer-ML](https://github.com/robert-scr/Beer-ML).
-
-_Course editions, curriculum, and everything else live at **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)**._
-
-## 🎓 Course editions
-
-| Edition | Where | Year | Status |
-| --- | --- | --- | --- |
-| [Obertauern 2026](https://bridgingaiandsociety.org/courses/obertauern-2026/) | 🇦🇹 Austria | 2026 | **Upcoming** |
-| [Banz Abbey 2025](https://bridgingaiandsociety.org/courses/banz-2025/) | 🇩🇪 Germany | 2025 | Completed |
-| Ljubljana | 🇸🇮 Slovenia | 2024 | Completed |
-| Koppelsberg | 🇩🇪 Germany | 2021 | Completed |
-| Cambridge | 🇬🇧 United Kingdom | 2019 | Completed |
 
 ## 🧭 Our approach
 
@@ -139,7 +149,11 @@ _Course editions, curriculum, and everything else live at **[bridgingaiandsociet
 
 ## 🤝 Get involved
 
-We welcome collaboration and feedback. To learn more about our courses, teaching philosophy, or materials, visit **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)** — or [get in touch with us](https://bridgingaiandsociety.org/about/).
+We welcome collaboration and feedback.
+
+- **Teach with our materials** — everything here is free to fork and adapt for your own courses.
+- **Spotted an issue?** Open an issue or pull request in the relevant repository.
+- **Interested in a course or workshop?** Visit **[bridgingaiandsociety.org](https://bridgingaiandsociety.org)** or [get in touch with us](https://bridgingaiandsociety.org/about/).
 
 <p align="center">
   <sub>© Christoph Weisser &amp; Knut Zoch · <a href="https://bridgingaiandsociety.org">bridgingaiandsociety.org</a></sub>
